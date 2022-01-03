@@ -1,0 +1,86 @@
+header{   
+    margin: auto;
+    /* padding: 30px 30px 30px 50px; */
+    /* border-left: solid white; */
+    width: 100%;
+}
+
+nav{
+    padding-left: 15px;
+    border: -20px;
+    border-bottom: 1px solid #F8EEE7;
+    background-color: #E9E9E9;
+    /* margin-left: -90px; */
+    width: 100%;
+    margin-right: -180px;
+    margin-bottom: -100px;
+    height: 70px;
+}
+
+nav ul{
+    display: inline; 
+    justify-content: space-around;
+    list-style: none;  
+    padding: 5px;           
+}
+
+div.container-fluid{
+    padding: 0px 24px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #000000;
+    padding-left: 10px;
+    display: block;
+    text-align: center;
+    float: left;
+    /* margin-top: -30px; */
+    font-size: 18px;
+    margin-right: 50px;
+}
+
+nav li:hover .submenu{
+    display:block;
+}
+
+#baixandoImg{
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content:center;
+    text-align: center;
+    /* padding-right: 30px; */
+    margin: 40px;
+}
+
+col{
+    color: black;
+}
+
+#img1{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+body{
+  widows: 50%;
+  margin: auto;  
+}
+
+#Imagem{
+    margin-left: 30px;
+    margin-top: 40px;
+    width: 150px;
+    /* text-justify: auto; */
+    text-align: left;
+}
+
+#logo{
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 25px;
+}

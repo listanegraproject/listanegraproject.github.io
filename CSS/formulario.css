@@ -1,0 +1,44 @@
+#quadrado{
+    width: 180px;
+    background-color: white;
+    margin: auto;
+    padding: 80px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+html{
+    height: 100%;
+}
+
+#logo{
+    width:150px;
+    margin-bottom: 5px;
+}
+
+body{
+    background-color: #E9E9E9;
+    width: 60%;
+    height: 50%;
+    margin: 15% 20% 25% 20%;
+}   
+
+input{
+    margin-bottom: 14px;
+}
+
+p{
+    font-size: 13px;
+}
+
+textarea{
+    color:black;
+    margin-bottom: 14px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+

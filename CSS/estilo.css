@@ -1,0 +1,62 @@
+p{
+top: 495px;
+left: 55px;
+width: 723px;
+height: 99px;
+text-align: left;
+font: normal normal normal 30px Segoe UI;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+}
+
+h2{
+  margin: 0 auto;  
+}
+
+#textlado{
+    padding-left: 50px;
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    /* margin: 55px; */
+
+}
+
+#botao{
+    width: 200px;
+    height: 70px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content:center;
+    margin-top: 100px;
+    
+}
+    
+#containerImg{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../img/IMG.png');
+    background-size: cover !important;
+    margin-top: 100px;
+}
+
+body{
+    widows: 50%;
+    margin: 0 auto;
+}
+
+#Imagem{
+    margin-top: 280px;
+}
+
+#bg{
+    margin-top: 90px;
+}
+
+.col {
+    padding-right: 10px;
+}
